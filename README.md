@@ -25,3 +25,7 @@ Before starting, ensure you have:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+
+### Start the docker container
+```bash
+./vendor/bin/sail up -d
