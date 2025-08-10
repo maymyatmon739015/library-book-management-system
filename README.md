@@ -25,9 +25,3 @@ Before starting, ensure you have:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
-
----
-
-### 1️⃣ Clone the repository
-```bash
-./vendor/bin/sail up -d
